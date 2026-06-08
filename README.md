@@ -8,7 +8,7 @@ Welcome to my GitHub!
 
 I am a passionate and dedicated aspiring Game Developer currently transitioning into software and game development through self-study, hands-on projects, and continuous learning. My goal is to create engaging experiences across PC, mobile, console, and tablet platforms while developing the technical skills required to thrive in the gaming industry.
 
-Although I am early in my development journey, I believe that consistent practice, curiosity, and perseverance are the foundation of growth. Every project in this repository represents an opportunity to strengthen my coding abilities, experiment with new technologies, and deepen my understanding of game design and development principles.
+Although I am early in my development journey, I believe that consistent practice, curiosity, and perseverance are the foundation of growth. Every project I post represents an opportunity to strengthen my coding abilities, experiment with new technologies, and deepen my understanding of game design and development principles.
 
 ---
 
